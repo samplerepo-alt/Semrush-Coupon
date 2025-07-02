@@ -149,7 +149,6 @@ Here’s a quick look at the regular monthly prices vs. the discounted monthly r
 </div>
 
 > [!Note]
-> ### Note
 > The discounted prices apply when you choose annual billing with the Semrush coupon activated.
 
 <div align="center">
@@ -165,7 +164,7 @@ Here’s how to start your Semrush free trial in just a few steps:
 ### Step 1: Pick your preferred trial option from the offers listed below and click the “Claim Offer” button
 
 <div align="center">
-    <a href="https://bit.ly/3T4mYXH" target="_blank"><img src="https://github.com/samplerepo-alt/Semrush-Coupon/blob/6b0d67605febaaee92809f9744ab8fcf38ad7af5/img/Semrush%20Pro%20Plan%20and%20Guru%20Plan.jpg" alt="Semrush Pro Plan and Guru Plan"/></a>
+    <a href="https://bit.ly/3T4mYXH" target="_blank"><img src="https://github.com/samplerepo-alt/Semrush-Coupon/blob/fc615ec80951b9cd7695e43031def4e43fd63862/img/Semrush%20Guru%20Plan%2014%20Days%20Free%20Trial.jpg" alt="Semrush Guru Plan 14 Days Free Trial"/></a>
 </div>
 
 ### Step 2: Select the plan you want and click on “Try for Free”
@@ -186,9 +185,6 @@ Here’s how to start your Semrush free trial in just a few steps:
 
 The top Semrush deal in July 2025 is the **14-day free trial on the Guru Plan**. It provides full access to Semrush’s advanced features at no cost, giving you enough time to evaluate if it meets your needs.
 
-<div align="center">
-    <a href="https://bit.ly/3T4mYXH" target="_blank"><img src="https://github.com/samplerepo-alt/Semrush-Coupon/blob/6b0d67605febaaee92809f9744ab8fcf38ad7af5/img/Semrush%20Pro%20Plan%20and%20Guru%20Plan.jpg" alt="Semrush Pro Plan and Guru Plan"/></a>
-</div>
 
 **Here’s a quick comparison between the Pro and Guru trial offers:**
 
